@@ -35,7 +35,7 @@ The goal of this project is to analyze the growth and distribution of electric v
 
 ##  Tools Used
 
-- **Excel** (2021) – Data cleaning
+- **Excel**  – Data cleaning
 - **Tableau** – Dashboard creation
 
 ---
